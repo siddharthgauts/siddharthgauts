@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Web Apps, Coding problems, AI**
 
-<img align="left" alt="Coding" width="1000" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="left" alt="Coding" width="1000" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthgauts&" alt="siddharthgauts" /></p>
 
