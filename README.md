@@ -1,4 +1,4 @@
-![MasterHead](https://dochub.com/siddharthgauts/1XEpyxzwN52M9E8VQZGd38/siddharth-afdab981-jpg?dt=L1bb5kNiBekQ8w1nv_2J)
+![MasterHead](https://dochub.com/siddharthgauts/7vA0q9lw2A0Db2GVPDNOxd/new-sid-jpg?dt=vdsryQpszqGpHAKvy1hb)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=5000&width=500&lines=Hi%F0%9F%91%8B+there,+I'm+Siddharth!)](https://git.io/typing-svg)
 
@@ -16,7 +16,8 @@
 
 - 💬 Ask me about **React, Web Apps, Coding problems, AI**
 
-<img align="left" alt="Coding" width="1000" height ="500" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="left" alt="Coding" width="1000" height="500" src="https://i.imgur.com/Gj3MtZq.gif">
+-
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthgauts&" alt="siddharthgauts" /></p>
 
