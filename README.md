@@ -12,7 +12,7 @@
 
 -🤖 I'm a coding enthusiast and MERN stack developer. I love to solve problems and develop Web Apps in JavaScript and TypeScript.
 
--💻 Solved 400+ questions on Data Structure and Algorithms on multiple platforms.
+-💻 Solved 400+ questions on Data Structure and Algorithms on diffferent platforms.
 
 - 💬 Ask me about **React, Web Apps, Coding problems, AI**
 
