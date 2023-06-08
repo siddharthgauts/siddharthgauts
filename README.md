@@ -19,7 +19,7 @@
 <img align="left" alt="Coding" width="1000" src="https://i.imgur.com/Gj3MtZq.gif">
 
 
-<p><img align="right"  width="470" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthgauts&" alt="siddharthgauts" /></p>
+<p><img align="right"  width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthgauts&" alt="siddharthgauts" /></p>
 
 <p><img align="right"  width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthgauts&show_icons=true&locale=en&layout=compact" alt="siddharthgauts" /></p>
 
