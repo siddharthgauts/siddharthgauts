@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Web Apps, Coding problems, AI**
 
-<img align="left" alt="Coding" width="1000" src="https://i.imgur.com/Gj3MtZq.gif">
+<img align="left" alt="Coding" width="400" src="https://i.imgur.com/Gj3MtZq.gif">
 <br>
 <p><img align="left"  width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthgauts&" alt="siddharthgauts" /></p>
 <br>
