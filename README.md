@@ -41,7 +41,6 @@
 <a href="https://linkedin.com/in/siddharthgauts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthgauts" height="30" width="40" /></a>
 <a href="https://instagram.com/siddharthgauts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharthgauts" height="30" width="40" /></a>
 <a href="https://medium.com/@siddharthgauts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@siddharthgauts" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sid_gts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sid_gts" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
