@@ -5,9 +5,11 @@
 
 <h3 align="center">A passionate Coder & MERN Stack developer</h3>
 
-- 🧑‍💻 MERN Stack Developer. Pre-final year CSE Student at IIIT Vadodara ICD'24. [https://www.linkedin.com/company/oromcorp/mycompany/](https://www.linkedin.com/company/oromcorp/mycompany/)
+- 🧑‍💻 MERN Stack Developer. Pre-final year CSE Student at IIIT Vadodara ICD'24.
 
-- ⌨ 6 Months Work Experience at Ziavii as Web Developer Intern. 
+- ⌨ 6 Months Work Experience at Ziavii as Web Developer Intern. 2 Month MERN Stack Developer intern at OROMCorp.
+   https://www.linkedin.com/company/oromcorp/mycompany/
+  
 - My task was to give Ziavii website a modern look, handle clients request, solve the backend as well as frontend bugs and errors. [https://siddharthgauts.github.io/ziavii_web_development/](https://siddharthgauts.github.io/ziavii_web_development/)
 
 -🤖 I'm a coding enthusiast and MERN stack developer. I love to solve problems and develop Web Apps in JavaScript and TypeScript.
