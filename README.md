@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Coder & MERN Stack developer</h3>
 
-- 🧑‍💻 MERN Stack Developer. Pre-final year CSE Student at IIIT Vadodara ICD'24.
+- 🧑‍💻 MERN Stack Developer. Final year CSE Student at IIIT Vadodara ICD'24.
 
 - ⌨ 6 Months Work Experience at Ziavii as Web Developer Intern. 2 Month MERN Stack Developer intern at OROMCorp.
    https://www.linkedin.com/company/oromcorp/mycompany/
@@ -14,7 +14,7 @@
 
 -🤖 I'm a coding enthusiast and MERN stack developer. I love to solve problems and develop Web Apps in JavaScript and TypeScript.
 
--💻 Solved 400+ questions on Data Structure and Algorithms on different platforms.
+-💻 Solved 500+ questions on Data Structure and Algorithms on different platforms.
 
 - 💬 Ask me about **React, Web Apps, Coding problems, AI**
 
