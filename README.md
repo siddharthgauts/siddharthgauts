@@ -7,8 +7,7 @@
 
 - 🧑‍💻 MERN Stack Developer. Final year CSE Student at IIIT Vadodara ICD'24.
 
-- ⌨ 6 Months Work Experience at Ziavii as Web Developer Intern. 2 Month MERN Stack Developer intern at OROMCorp.
-   https://www.linkedin.com/company/oromcorp/mycompany/
+- ⌨ 6 Months Work Experience at Ziavii as Web Developer. 2 Months MERN Stack Developer at OROMCorp.
   
 - My task was to give Ziavii website a modern look, handle clients request, solve the backend as well as frontend bugs and errors. [https://siddharthgauts.github.io/ziavii_web_development/](https://siddharthgauts.github.io/ziavii_web_development/)
 
