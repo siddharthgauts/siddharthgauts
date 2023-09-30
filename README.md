@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=5000&width=500&lines=Hi%F0%9F%91%8B+there,+I'm+Siddharth!)](https://git.io/typing-svg)
 
-
 <h3 align="center">A passionate Coder & MERN Stack developer</h3>
 
 - 🧑‍💻 MERN Stack Developer. Final year CSE Student at IIIT Vadodara ICD'24.
