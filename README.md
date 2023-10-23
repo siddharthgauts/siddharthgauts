@@ -20,7 +20,7 @@
 <br>
 <p><img align="left"  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthgauts&" alt="siddharthgauts" /></p>
 <br>
-<p><img align="right"  width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthgauts&show_icons=true&locale=en&layout=compact" alt="siddharthgauts" /></p>
+<p><img align="left"  width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthgauts&show_icons=true&locale=en&layout=compact" alt="siddharthgauts" /></p>
 
 <br>
 
