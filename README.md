@@ -16,18 +16,18 @@
 
 - 💬 Ask me about **React, Web Apps, Coding problems, AI**
 
-<img align="left" alt="Coding" width="400" src="https://i.imgur.com/Gj3MtZq.gif">
+<img align="left" alt="Coding" width="1000" src="https://i.imgur.com/Gj3MtZq.gif">
 <br>
-<p><img align="right"  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthgauts&" alt="siddharthgauts" /></p>
+<p><img align="left"  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthgauts&" alt="siddharthgauts" /></p>
 <br>
 <p><img align="right"  width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthgauts&show_icons=true&locale=en&layout=compact" alt="siddharthgauts" /></p>
 
 <br>
-<p>&nbsp;<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=siddharthgauts&show_icons=true&locale=en" alt="siddharthgauts" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthgauts" alt="siddharthgauts" /></a> </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=siddharthgauts&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthgauts" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthgauts&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthgauts" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/siddharthgauts" target="blank"><img src="https://img.shields.io/twitter/follow/siddharthgauts?logo=twitter&style=for-the-badge" alt="siddharthgauts" /></a> </p>
