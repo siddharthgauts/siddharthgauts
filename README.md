@@ -14,7 +14,7 @@
 
 -💻 Solved 600+ questions on Data Structure and Algorithms on different platforms.
 
-- 💬 Ask me about **Angular, React, Web Apps, Coding problems, AI**
+- 💬 Ask me about **PHP, Javascript, Angular, React, Web Apps, Coding problems, AI**
 
 <br>
 <img align="left"  width="445" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthgauts&" alt="siddharthgauts" />
