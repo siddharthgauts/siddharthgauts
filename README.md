@@ -1,4 +1,4 @@
-![MasterHead](https://dochub.com/siddharthgauts/7vA0q9lw2A0Db2GVPDNOxd/new-sid-jpg?dt=vdsryQpszqGpHAKvy1hb)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=5000&width=500&lines=Hi%F0%9F%91%8B+there,+I'm+Siddharth!)](https://git.io/typing-svg)
 
