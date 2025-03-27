@@ -4,15 +4,9 @@
 
 <h3 align="center">A passionate Coder & MERN Stack developer</h3>
 
-- 🧑‍💻 MERN Stack Developer. Final year CSE Student at IIIT Vadodara ICD'24.
-
-- ⌨ 6 Months Work Experience at Ziavii as Web Developer. 2 Months MERN Stack Developer at OROMCorp.
-  
-- My task was to give Ziavii website a modern look, handle clients request, solve the backend as well as frontend bugs and errors. [https://siddharthgauts.github.io/ziavii_web_development/](https://siddharthgauts.github.io/ziavii_web_development/)
+- 🧑‍💻 SDE. Graduated @ IIIT Vadodara ICD'24.
 
 -🤖 I'm a coding enthusiast and MERN stack developer. I love to solve problems and develop Web Apps in JavaScript and TypeScript.
-
--💻 Solved 600+ questions on Data Structure and Algorithms on different platforms.
 
 - 💬 Ask me about **PHP, Javascript, Angular, React, Web Apps, Coding problems, AI**
 
